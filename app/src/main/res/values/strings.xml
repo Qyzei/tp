@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Myfirst_application</string>
+    <string name="sayHi">Say Hi</string>
+    <string name="displayMessage">What is your name</string>
+</resources>
